@@ -4,7 +4,6 @@
 
 
 ## Go Mudule Anywhere in your system
-https://www.youtube.com/watch?v=GtpV-SCYJzo
 
 Step 1- go mod init github.com/gamorvi/restapi2
 
